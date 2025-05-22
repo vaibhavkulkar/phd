@@ -1,7 +1,6 @@
-State of art understanding
+# This directory contains all research and current state of art for LLMs Cyber Security and Pscyhology
 
-Journal
-
-Papers to Read
-
-conference
+- State of art understanding
+- Journal
+- Papers
+- Conference proceeding
